@@ -30,7 +30,7 @@ Optional surface information
 
 ## Noise barriers
 
-Noise barriers are a central part of route planing. The process of describing the components is described in detail in {{refsec Terrain model}}. The The surface description consists of a triangle mesh, which may have random points or breaklines attached to it. Structural surfaces or cross-sections are usually not defined for noise barriers.
+Noise barriers are a central part of route planing. The process of describing the components is described in detail in {{refsec Terrain model}}. The surface description consists of a triangle mesh, which may have random points or breaklines attached to it. Structural surfaces or cross-sections are usually not defined for noise barriers.
 
 The noise barrier *plan information* is defined in the optional extension "IM_plan". A *surface code* (**SurfaceCoding**) is set for the surfaces . It is also possible to set an alternative type coding (**proprietaryInfraCoding**).
 
